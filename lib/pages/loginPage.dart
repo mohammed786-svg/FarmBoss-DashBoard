@@ -85,7 +85,7 @@ class _FormUI extends StatelessWidget {
                         fontWeight: FontWeight.normal,
                       )),
                   TextSpan(
-                      text: ' Log In 👇',
+                      text: ' Log In👇',
                       style: ralewayStyle.copyWith(
                         fontWeight: FontWeight.w800,
                         color: AppColors.blueDarkColor,
