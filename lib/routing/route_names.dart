@@ -1,0 +1,9 @@
+const String HomeRoute = "homepage";
+const String CropDetailsRoute = "cropdetailspage";
+const String ConsumerDetailsRoute = "consumerdetailspage";
+const String ProducerDetailsRoute = "producerdetailspage";
+const String ProductionDetailsRoute = "productiondetailspage";
+const String SalesRoute = "salespage";
+const String SettingsRoute = "settingspage";
+const String WelcomeRoute = "welcomepage";
+const String LoginRoute = "loginpage";
